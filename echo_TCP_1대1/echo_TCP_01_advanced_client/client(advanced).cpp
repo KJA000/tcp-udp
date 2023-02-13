@@ -2,7 +2,7 @@
 #include <string>
 #include <WS2tcpip.h>
 #include <Windows.h>
-
+  
 #pragma comment(lib, "ws2_32.lib")
 using namespace std;
 int main()
