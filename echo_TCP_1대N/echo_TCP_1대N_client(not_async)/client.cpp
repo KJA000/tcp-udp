@@ -5,7 +5,7 @@
 #include <Windows.h>
 #pragma comment(lib, "ws2_32.lib")
 using namespace std;
-
+   
 std::string userMsg;
 SOCKET sock;
 
